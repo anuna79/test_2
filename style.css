@@ -1,0 +1,86 @@
+@font-face {
+    font-family: inter;
+    src: url(static/Inter-Regular.ttf);
+}
+
+div{
+    width: 383px;
+    height: 515px;
+    border-radius: 4px;
+    border: #FFD43A dashed 2px;
+    background-color: #414141;
+    margin-left: 555px;
+    margin-top: 57px;
+}
+
+.name {
+    font-family: inter;
+    font-size: 16px;
+    font-weight: 500;
+    color: #DEDEDE;
+    padding-top: 31px;
+    padding-left: 34px;
+    margin: 0;
+}
+
+input[type="text"] {
+    width: 315px;
+    height: 45px;
+    border-radius: 4px;
+    background-color: #A9A9A9;
+    border: 1px solid #E0E0E0;
+    margin-left: 34px;
+    margin-top: 3px;
+}
+
+.mobile_number{
+    font-family: inter;
+    font-size: 16px;
+    font-weight: 500;
+    color: #DEDEDE;
+    padding-top: 9px;
+    padding-left: 34px;
+    margin: 0;
+}
+
+input[type^="num"] {
+    width: 315px;
+    height: 45px;
+    border-radius: 4px;
+    background-color: #A9A9A9;
+    border: 1px solid #E0E0E0;
+    margin-left: 34px;
+    margin-top: 3px;
+}
+
+.password {
+    font-family: inter;
+    font-size: 16px;
+    font-weight: 500;
+    color: #DEDEDE;
+    padding-top: 9px;
+    padding-left: 34px;
+    margin: 0;
+}
+
+
+input[type$="word"] {
+    width: 315px;
+    height: 45px;
+    border-radius: 4px;
+    background-color: #A9A9A9;
+    border: 1px solid #E0E0E0;
+    margin-left: 34px;
+    margin-top: 3px;
+}
+
+.your_bio{
+    width: 315px;
+    height: 45px;
+    border-radius: 4px;
+    background-color: #A9A9A9;
+    border: 1px solid #E0E0E0;
+    margin-left: 34px;
+    margin-top: 3px;
+}
+
